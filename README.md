@@ -1,4 +1,4 @@
-# Jwezel Software
+# Johnny Wezel's Software
 
 ## How do I install these formulae?
 
